@@ -63,7 +63,8 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+[![✉️ dentanyabonya@mail.ru](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+
 
 **Открыт для коллабораций и сложных задач!** 🤝
 </div>
@@ -122,7 +123,8 @@ I'm a beginner Python specialist who completed courses from 'HEXLET' and am read
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+[![✉️ dentanyabonya@mail.ru](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+
 
 **Open to collaborations & challenging projects!** 🤝
 </div>
