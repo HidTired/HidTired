@@ -1,44 +1,128 @@
-[![TaskManager](https://github-readme-stats.vercel.app/api/pin/?username=HidTired&repo=твой-taskmanager&theme=radical)](https://github.com/HidTired/твой-taskmanager)
-<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/2326f619-4c47-4cf6-a12d-e6c528ab2063" /><div align="center">
 
-# Привет! 👋 
-Я Чуняев Денис (HidTired)
-Python - разработчик
+# 🌐 RU
+
+<div align="center">
+
+
+---
+# Добро пожаловать на страницу к HidTired
+
+    ╔══════════════════════════════════════╗
+    ║   🐍Меня зовут Денис, я Python-разработчик из Москвы 🐍   ║
+    ╚══════════════════════════════════════╝
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)]
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![HTTP](https://img.shields.io/badge/HTTP-3D7EFF?style=for-the-badge&logo=httprequests&logoColor=white)]
+[![RegExp](https://img.shields.io/badge/RegExp-E0234E?style=for-the-badge&logo=regex&logoColor=white)]
+[![Pytest](https://img.shields.io/badge/Pytest-0A9F37?style=for-the-badge&logo=pytest&logoColor=white)]
+[![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]
+
+</div>
+
+Я начинающий специалист по Python, завершил курсы от 'HEXLET' и готов покорять новые вершины, в моей голове много идей и я начинаю воплощать их в жизнь, следите за моими работами, это даст мне мотивацию!
+
+
+<br>
+
+## 🔥 Сейчас работаю над
+
+<div align="center">
+
+- 🐍 **Task Manager** — Django + Pytest + PostgreSQL
+- 🔄 **CI/CD** пайплайны на GitHub Actions
+- 🎮 **Pacman** — мой следующий проект (скоро!)
+
+</div>
+
+<br>
+</div>
+
+## 🛠️ Tech Stack
+🔹 Backend: Python, Django
+
+🔹 Базы: PostgreSQL, SQLite
+
+🔹 Тесты: Pytest, Coverage
+
+🔹 DevOps: GitHub Actions, Render, SonarCube
+
+🔹 Инструменты: Ruff, Poetry, UV
+
+🔹 Среда: Windows PowerShell → Linux Ubuntu(пока что изучаю)
+
+
+## 🚀 Мои личные задачи:
+
+- 🔄 **Переход на Linux** — Ubuntu для ускорения разработки (в ближайшее время)
+  
+- 🎮 **Pacman** — изучаю игровую разработку (будет позже)
+  
+- 💪 Браться за сложные задачи, чтобы расти быстрее!
+  
+
+## 📫 Связаться со мной
+<div align="center">
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+
+**Открыт для коллабораций и сложных задач!** 🤝
+</div>
+
+# 🌐 ENG
+
+<div align="center">
+
+# Welcome to HidTired's page
+
+    ╔══════════════════════════════════════╗
+    ║   🐍 Hi, I'm Denis - Python Developer from Moscow 🐍   ║
+    ╚══════════════════════════════════════╝
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)]
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]
 [![HTTP](https://img.shields.io/badge/HTTP-3D7EFF?style=for-the-badge&logo=httprequests&logoColor=white)]
-[![REST API](https://img.shields.io/badge/REST_API-0C969B?style=for-the-badge&logo=swagger&logoColor=white)]
 [![RegExp](https://img.shields.io/badge/RegExp-E0234E?style=for-the-badge&logo=regex&logoColor=white)]
 [![Pytest](https://img.shields.io/badge/Pytest-0A9F37?style=for-the-badge&logo=pytest&logoColor=white)]
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]
+[![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]
 
 </div>
 
-## 📊 GitHub Stats
+I'm a beginner Python specialist who completed courses from 'HEXLET' and am ready to conquer new heights. I have lots of ideas in my head and am starting to bring them to life—follow my works, as it will motivate me!
+
+<br>
+
+## 🔥 Currently working on
+
 <div align="center">
-[![HidTired's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidTired&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidTired&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🐍 **Task Manager** — Django + Pytest + PostgreSQL
+- 🔄 **CI/CD** pipelines with GitHub Actions
+- 🎮 **Pacman** — my next project (coming soon!)
+
 </div>
-**HidTired/HidTired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🐍 Task Manager на Django + Pytest
-- 🔄 CI/CD пайплайны на GitHub Actions
-- 🚀 Деплой на Render.com
+<br>
 
-## 🛠️ Стек технологий
-🔹 Backend: Python, Django
-🔹 Тестирование: Pytest, Coverage
-🔹 DevOps: GitHub Actions, Render, SonarCube
-🔹 Инструменты: Ruff, Poetry, UV tool
-🔹 Среда: Windows + PowerShell
+## 🛠️ Tech Stack
+🔹 Backend: Python, Django  
+🔹 Databases: PostgreSQL, SQLite  
+🔹 Testing: Pytest, Coverage  
+🔹 DevOps: GitHub Actions, Render, SonarCube  
+🔹 Tools: Ruff, Poetry, UV  
+🔹 Environment: Windows PowerShell → Linux Ubuntu (learning)
 
-## Мой прогресс:
-- Пересаживаюсь на Linux (Работал в Windows PowerShell, уверен, что пересев на Linux ubuntu, мой прогресс возрастет)
-- Начал делать проект: Игра Pacman (будет доступен позже)
-- Открыт для любых проектов, у меня ещё мало опыта, но специально берусь за сложную работу, что бы развеять свои страхи и показать, что я могу лучше!
+## 🚀 Personal goals:
 
-## 📫 Контакты
+- 🔄 **Switch to Linux** — Ubuntu for faster development (soon)  
+- 🎮 **Pacman** — learning game development (coming later)  
+- 💪 Take on challenging tasks to grow faster!
+
+## 📫 Get in touch
+<div align="center">
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
+
+**Open to collaborations & challenging projects!** 🤝
+</div>
