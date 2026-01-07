@@ -63,6 +63,7 @@
 
 ## 📫 Связаться со мной
 <div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
 
@@ -121,6 +122,7 @@ I'm a beginner Python specialist who completed courses from 'HEXLET' and am read
 
 ## 📫 Get in touch
 <div align="center">
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dentanyabonya@mail.ru)
 
