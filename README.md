@@ -48,15 +48,6 @@
 🔹 Инструменты: Ruff, Poetry, UV
 
 🔹 Среда: Windows PowerShell Linux Ubuntu
-
-
-## 🚀 Мои цели:
-
-- 🔄 **Переход на Linux** — Ubuntu для ускорения разработки (в ближайшее время)
-  
-- 🎮 **Pacman** — изучаю игровую разработку (будет позже)
-  
-- 💪 Браться за сложные задачи, чтобы расти быстрее!
   
 
 ## 📫 Связаться со мной
@@ -113,13 +104,6 @@ I'm a beginner Python/PHP specialist who completed courses from 'HEXLET' and am 
 🔹 Tools: Ruff, Poetry, UV  
 🔹 Environment: Windows PowerShell → Linux Ubuntu (learning)
 
-## 🚀 Personal goals:
-
-- 🔄 **Switch to Linux** — Ubuntu for faster development (soon)  
-- 🎮 **Pacman** — learning game development (coming later)  
-- 💪 Take on challenging tasks to grow faster!
-
-## 📫 Get in touch
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HidTired)
