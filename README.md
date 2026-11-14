@@ -47,7 +47,7 @@
 
 🔹 Инструменты: Ruff, Poetry, UV
 
-🔹 Среда: Windows PowerShell → Linux Ubuntu(пока что изучаю)
+🔹 Среда: Windows PowerShell Linux Ubuntu
 
 
 ## 🚀 Мои цели:
