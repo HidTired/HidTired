@@ -18,7 +18,7 @@
 
 </div>
 
-Я начинающий специалист по Python, завершил курсы от школы 'HEXLET' и готов покорять новые вершины, в моей голове много идей и я начинаю воплощать их в жизнь, следите за моими работами, это даст мне мотивацию!
+Я начинающий специалист по Python/PHP, завершил курсы от школы 'HEXLET' и готов покорять новые вершины, в моей голове много идей и я начинаю воплощать их в жизнь, следите за моими работами, это даст мне мотивацию!
 
 
 <br>
@@ -89,7 +89,7 @@
 
 </div>
 
-I'm a beginner Python specialist who completed courses from 'HEXLET' and am ready to conquer new heights. I have lots of ideas in my head and am starting to bring them to life—follow my works, as it will motivate me!
+I'm a beginner Python/PHP specialist who completed courses from 'HEXLET' and am ready to conquer new heights. I have lots of ideas in my head and am starting to bring them to life—follow my works, as it will motivate me!
 
 <br>
 
