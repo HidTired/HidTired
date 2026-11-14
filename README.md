@@ -47,7 +47,7 @@
 
 🔹 Инструменты: Ruff, Poetry, UV
 
-🔹 Среда: Windows PowerShell Linux Ubuntu
+🔹 Среда: Windows PowerShell, Linux Ubuntu
   
 
 ## 📫 Связаться со мной
@@ -102,7 +102,7 @@ I'm a beginner Python/PHP specialist who completed courses from 'HEXLET' and am 
 🔹 Testing: Pytest, Coverage  
 🔹 DevOps: GitHub Actions, Render, SonarCube  
 🔹 Tools: Ruff, Poetry, UV  
-🔹 Environment: Windows PowerShell → Linux Ubuntu (learning)
+🔹 Environment: Windows PowerShell, Linux Ubuntu
 
 <div align="center">
 
